@@ -1,0 +1,5 @@
+{
+    "require": {
+        "railsformers/reservatic": "^1.0"
+    }
+}

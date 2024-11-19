@@ -1,0 +1,13 @@
+{
+    "name": "railsformers/reservatic",
+    "description": "Reservatic API",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Reservatic\\": "src"
+        },
+        "files": [
+            "src/factory.php"
+        ]
+    }
+}

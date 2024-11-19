@@ -1,0 +1,470 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-11 09:53+0200\n"
+"PO-Revision-Date: 2024-09-12 13:14+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: reservatic.php:46 includes/shortcode.php:86 includes/shortcode.php:88
+msgid "Vyberte úkon"
+msgstr "Select activity"
+
+#: reservatic.php:47
+msgid "Zdarma"
+msgstr "Free"
+
+#: reservatic.php:48
+msgid "Počet volných míst"
+msgstr "Number of available spots"
+
+#: reservatic.php:49
+msgid "Počet objednaných osob"
+msgstr "Number of people reserved"
+
+#: reservatic.php:50
+msgid "Chyba v rezervaci."
+msgstr "Error in reservation."
+
+#: reservatic.php:51
+msgid "Chyba"
+msgstr "Error"
+
+#: reservatic.php:52
+msgid "Rezervace úspěšně vymazána"
+msgstr "Reservation successfully deleted"
+
+#: reservatic.php:53
+msgid "Jméno"
+msgstr "First name"
+
+#: reservatic.php:54
+msgid "Příjmení"
+msgstr "Last name"
+
+#: reservatic.php:56
+msgid "neděle"
+msgstr "Sunday"
+
+#: reservatic.php:57
+msgid "pondělí"
+msgstr "Monday"
+
+#: reservatic.php:58
+msgid "úterý"
+msgstr "Tuesday"
+
+#: reservatic.php:59
+msgid "středa"
+msgstr "Wednesday"
+
+#: reservatic.php:60
+msgid "čtvrtek"
+msgstr "Thursday"
+
+#: reservatic.php:61
+msgid "pátek"
+msgstr "Friday"
+
+#: reservatic.php:62
+msgid "sobota"
+msgstr "Satuday"
+
+#: reservatic.php:65
+msgid "ledna"
+msgstr "January"
+
+#: reservatic.php:66
+msgid "února"
+msgstr "February"
+
+#: reservatic.php:67
+msgid "března"
+msgstr "March"
+
+#: reservatic.php:68
+msgid "dubna"
+msgstr "April"
+
+#: reservatic.php:69
+msgid "května"
+msgstr "May"
+
+#: reservatic.php:70
+msgid "června"
+msgstr "June"
+
+#: reservatic.php:71
+msgid "července"
+msgstr "July"
+
+#: reservatic.php:72
+msgid "srpna"
+msgstr "August"
+
+#: reservatic.php:73
+msgid "září"
+msgstr "September"
+
+#: reservatic.php:74
+msgid "října"
+msgstr "October"
+
+#: reservatic.php:75
+msgid "listopadu"
+msgstr "November"
+
+#: reservatic.php:76
+msgid "prosince"
+msgstr "December"
+
+#: reservatic.php:106 includes/admin-settings.php:49
+msgid "Reservatic Plugin"
+msgstr ""
+
+#: reservatic.php:107
+msgid "Nastavení"
+msgstr "Settings"
+
+#: reservatic.php:108
+msgid "Formuláře"
+msgstr "Forms"
+
+#: reservatic.php:109
+msgid "Editovat Formulář"
+msgstr "Edit Form"
+
+#: includes/admin-settings.php:55
+msgid "Res URL"
+msgstr ""
+
+#: includes/admin-settings.php:59
+msgid "API Token"
+msgstr ""
+
+#: includes/admin-settings.php:63
+msgid "Certificate"
+msgstr ""
+
+#: includes/admin-settings.php:67
+msgid "Current file:"
+msgstr ""
+
+#: includes/admin-settings.php:72
+msgid "Certificate Password"
+msgstr ""
+
+#: includes/form-management.php:10
+msgid "Reservatic formuláře"
+msgstr "Reservatic Forms"
+
+#: includes/form-management.php:11
+msgid "Vytvořit nový formulář"
+msgstr "Create a new form"
+
+#: includes/form-management.php:14 includes/form-management.php:170
+msgid "Vyberte službu:"
+msgstr "Vyberte službu"
+
+#: includes/form-management.php:26 includes/form-management.php:183
+msgid "Barva prvků:"
+msgstr "Colour of elements:"
+
+#: includes/form-management.php:28 includes/form-management.php:185
+msgid "Barva textu tlačítek:"
+msgstr "Text colour of buttons:"
+
+#: includes/form-management.php:30 includes/form-management.php:187
+msgid "Zaoblení rohů (px):"
+msgstr "Border radius (px)"
+
+#: includes/form-management.php:32 includes/form-management.php:189
+msgid "Barva pozadí:"
+msgstr "Background colour:"
+
+#: includes/form-management.php:34 includes/form-management.php:191
+msgid "Barva textu:"
+msgstr "Text colour:"
+
+#: includes/form-management.php:38 includes/form-management.php:195
+msgid "Zobrazit logo Reservatic"
+msgstr "Show Reservatic logo"
+
+#: includes/form-management.php:42 includes/form-management.php:199
+msgid "Zobrazit GooglePlay a AppStore ikony"
+msgstr "Show GooglePlay and AppStore icons"
+
+#: includes/form-management.php:44
+msgid "Generovat formulář"
+msgstr "Generate Form"
+
+#: includes/form-management.php:75
+#, php-format
+msgid "Shortcode for Service ID %d:"
+msgstr ""
+
+#: includes/form-management.php:83
+msgid "Existující formuláře:"
+msgstr "Existing forms:"
+
+#: includes/form-management.php:90
+msgid "Editovat"
+msgstr "Edit"
+
+#: includes/form-management.php:91
+msgid "Smazat"
+msgstr "Delete"
+
+#: includes/form-management.php:104
+#, php-format
+msgid "Formulář %d smazán."
+msgstr "Form %d deleted."
+
+#: includes/form-management.php:151
+msgid "Invalid form ID."
+msgstr ""
+
+#: includes/form-management.php:159
+msgid "Form not found."
+msgstr ""
+
+#: includes/form-management.php:167
+#, php-format
+msgid "Editovat formulář %d"
+msgstr "Edit form %d"
+
+#: includes/form-management.php:201
+msgid "Aktualizovat formulář"
+msgstr "Update form"
+
+#: includes/form-management.php:224
+msgid "Error updating form."
+msgstr "Error updating form."
+
+#: includes/shortcode.php:31
+msgid "Prosím, nejprve nakonfigurujte nastavení pluginu."
+msgstr "Please configure the plugin settings first."
+
+#: includes/shortcode.php:49
+msgid "Logo, přejít na úvodní stránku"
+msgstr "Logo, go to homepage"
+
+#: includes/shortcode.php:50
+msgid "Logo"
+msgstr "Logo"
+
+#: includes/shortcode.php:64
+msgid "Vyberte službu"
+msgstr "Select a service"
+
+#: includes/shortcode.php:75
+msgid "Vybrat"
+msgstr "Select"
+
+#: includes/shortcode.php:98
+msgid "Firma"
+msgstr "Company"
+
+#: includes/shortcode.php:99
+msgid "Kategorie úkonu"
+msgstr "Category of action"
+
+#: includes/shortcode.php:100
+msgid "Úkon"
+msgstr "Activity"
+
+#: includes/shortcode.php:101
+msgid "Cena úkonu"
+msgstr "Activity price"
+
+#: includes/shortcode.php:102
+msgid "Délka úkonu"
+msgstr "Activity duration"
+
+#: includes/shortcode.php:113
+msgid "Vyberte termín"
+msgstr "Select a date"
+
+#: includes/shortcode.php:118
+msgid "Rok"
+msgstr "Year"
+
+#: includes/shortcode.php:125
+msgid "Měsíc"
+msgstr "Motnh"
+
+#: includes/shortcode.php:132
+msgid "Den"
+msgstr "Day"
+
+#: includes/shortcode.php:139
+msgid "Čas"
+msgstr "Time"
+
+#: includes/shortcode.php:146
+msgid "Vybraný termín"
+msgstr "Selected date"
+
+#: includes/shortcode.php:161
+msgid "Jméno:"
+msgstr "First name:"
+
+#: includes/shortcode.php:165
+msgid "Příjmení:"
+msgstr "Last name:"
+
+#: includes/shortcode.php:176
+msgid "Vaše rezervace"
+msgstr "Your reservation"
+
+#: includes/shortcode.php:179
+msgid "Váš vybraný termín:"
+msgstr "Your selected date:"
+
+#: includes/shortcode.php:183
+msgid "Čas rezervace:"
+msgstr "Booking time:"
+
+#: includes/shortcode.php:186
+msgid "Počet osob:"
+msgstr "Number of persons:"
+
+#: includes/shortcode.php:189
+msgid "Celková cena za rezervaci:"
+msgstr "Total price for reservation:"
+
+#: includes/shortcode.php:192
+msgid "Po odeslání rezervace vám budou zaslány informace na váš e-mail."
+msgstr "Once your booking has been submitted, information will be sent to your email."
+
+#: includes/shortcode.php:200
+msgid "Rezervovat"
+msgstr "Reserve"
+
+#: includes/shortcode.php:213
+msgid "Potvrzení o vaší platné rezervaci"
+msgstr "Confirmation of your valid reservation"
+
+#: includes/shortcode.php:216
+msgid "Čas objednání:"
+msgstr "Starts at:"
+
+#: includes/shortcode.php:221
+msgid "Délka úkonu:"
+msgstr "Activity duration:"
+
+#: includes/shortcode.php:226
+msgid "Úkon:"
+msgstr "Activity:"
+
+#: includes/shortcode.php:231
+msgid "Cena úkonu:"
+msgstr "Activity price:"
+
+#: includes/shortcode.php:236
+msgid "Firma:"
+msgstr "Company:"
+
+#: includes/shortcode.php:241
+msgid "Adresa:"
+msgstr "Location:"
+
+#: includes/shortcode.php:250
+msgid "ID rezervace"
+msgstr "Reservation ID:"
+
+#: includes/shortcode.php:258
+msgid "Klient:"
+msgstr "User:"
+
+#: includes/shortcode.php:263
+msgid "Váš e-mail:"
+msgstr "Your e-mail:"
+
+#: includes/shortcode.php:268
+msgid "Rezervaci je možno zrušit do:"
+msgstr "Your reservation can be cancelled to:"
+
+#: includes/shortcode.php:277
+msgid "Založit novou rezervaci"
+msgstr "Create a new reservation"
+
+#: includes/shortcode.php:278
+msgid "Tisk do PDF"
+msgstr "Print to PDF"
+
+#: includes/shortcode.php:279
+msgid "Zrušit rezervaci"
+msgstr "Cancel reservation"
+
+#: includes/shortcode.php:290
+msgid "Vytvořeno pomocí rezervačního systému"
+msgstr "Created by reservation system"
+
+#: includes/shortcode.php:550
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/shortcode.php:551
+msgid "Telefon"
+msgstr "Phone"
+
+#: includes/shortcode.php:552 includes/shortcode.php:554
+msgid "Rodné číslo"
+msgstr "Birth certificate number"
+
+#: includes/shortcode.php:553
+msgid "Číslo pojištěnce"
+msgstr "Insurance number"
+
+#: includes/shortcode.php:555
+msgid "Datum narození"
+msgstr "Birth date"
+
+#: includes/shortcode.php:556
+msgid "SPZ/RZ vozidla"
+msgstr "Vehicle registration number"
+
+#: includes/shortcode.php:557
+msgid "Ulice a č.p."
+msgstr "Street and no."
+
+#: includes/shortcode.php:558 includes/shortcode.php:586
+msgid "Město"
+msgstr "City"
+
+#: includes/shortcode.php:559 includes/shortcode.php:587
+msgid "PSČ"
+msgstr "Zip code"
+
+#: includes/shortcode.php:560
+msgid "Adresa"
+msgstr "Address"
+
+#: includes/shortcode.php:561
+msgid "Pojišťovna"
+msgstr "Insurance company"
+
+#: includes/shortcode.php:585
+msgid "Ulice"
+msgstr "Street"
+
+#: includes/shortcode.php:588
+msgid "Země"
+msgstr "Country"
+
+#: includes/shortcode.php:592
+msgid "Předvolba"
+msgstr "Dialcode"

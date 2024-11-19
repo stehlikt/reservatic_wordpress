@@ -1,0 +1,30 @@
+{
+    "packages": [
+        {
+            "name": "railsformers/reservatic",
+            "version": "v1.1.0.1",
+            "version_normalized": "1.1.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://gitlab.railsformers.com/world/reservatic-package",
+                "reference": "deba1388d48db383188c55795a7810a9929bef67"
+            },
+            "time": "2024-09-17T13:03:50+00:00",
+            "type": "library",
+            "installation-source": "source",
+            "autoload": {
+                "files": [
+                    "src/factory.php"
+                ],
+                "psr-4": {
+                    "Reservatic\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "description": "Reservatic API",
+            "install-path": "../railsformers/reservatic"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
